@@ -1,0 +1,4 @@
+body { font: 18px/1.5 system-ui, sans-serif; margin: 24px; background: #f4f0ff; }
+h1 { color: #3b2a7a; }
+input { font: inherit; padding: 8px 10px; }
+button { font: inherit; padding: 8px 14px; }
